@@ -4,7 +4,9 @@
 
 <h1>L'équipe</h1>
 
-<img src="./img/equipe.jpg" />
+<div class='text-center'>
+  <img src="./img/equipe.jpg" />
+</div>
 
 <div class="equipe">
 

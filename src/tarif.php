@@ -1,18 +1,9 @@
     <?php
-    include 'navbar.php';
-    //    include 'body.php';
-    //    include 'form.php';
-    //    include 'foot.php';
-    include 'footer.php';
+    include 'header.php';
     ?>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
 
-    <div class='corps shadow p-3 mb-5 bg-white rounded'>
-
+<div >
+    
         <div class="row">
             <div class="col-xl-12 col-lg-12 centreTxt">
                 <h1>Bienvenue sur l'espace information tarifaire concernant le dog sitting </h1>
@@ -24,7 +15,7 @@
         </div>
     </div>
     
-    <div class='corps shadow p-3 mb-5 bg-white rounded'>
+    <div>
 
         <div class="row">
             <div class="col-xl-12 col-lg-12">
@@ -48,37 +39,37 @@
                                 <td>4€/Chien</td>
                                 <td>Massage, Coaching Bien-être, Cure de santé, Conseils vétérinaires</td>
                             </tr>
-
+                            
                             <tr>
                                 <td>2 Heures</td>
                                 <td>7,50€/Chien</td>
                                 <td>Massage, Coaching Bien-être, Cure de santé, Conseils vétérinaires</td>
                             </tr>
-
+                            
                             <tr>
                                 <td>4 Heures</td>
                                 <td>13,50€/Chien</td>
                                 <td>Massage, Coaching Bien-être, Cure de santé, Conseils vétérinaires</td>
                             </tr>
-
+                            
                             <tr>
                                 <td>6 Heures</td>
                                 <td>17€/Chien</td>
                                 <td>Massage, Coaching Bien-être, Cure de santé, Conseils vétérinaires</td>
                             </tr>
-
+                            
                             <tr>
                                 <td>8 Heures</td>
                                 <td>19€/Chien</td>
                                 <td>Massage, Coaching Bien-être, Cure de santé, Conseils vétérinaires</td>
                             </tr>
-
+                            
                             <tr>
                                 <td>10 Heures</td>
                                 <td>21€/Chien</td>
                                 <td>Massage, Coaching Bien-être, Cure de santé, Conseils vétérinaires</td>
                             </tr>
-
+                            
                     </table>
                 </div>
             </div>
@@ -92,3 +83,5 @@
     </script>
 
 
+
+<?php include 'footer.php'; ?>

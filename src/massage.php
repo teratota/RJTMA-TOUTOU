@@ -9,7 +9,9 @@
         pratiquer par un professionnel.</p>
     <p>Notre service de massage est approprié aux chiens qui travaillent ansi qu'aux chiens de compagnie.</p>
 
-    <img src="./img/dog_massage1.jpg" />
+    <div class="text-center">
+        <img src="./img/dog_massage1.jpg" />
+    </div>
 
     <h2>A quoi sert de masser son chien ?</h2>
 
@@ -22,7 +24,9 @@
     <p>Tous les chiens peuvent être réceptif au massage, le masseur canin s'adapte à l'animal afin de créer une relation
         de confiance qui permet au chien d'avoir un massage avec aucune contrainte</p>
 
-    <img src="./img/dog_massage2.jpg" />
+    <div class="text-center">
+        <img src="./img/dog_massage2.jpg" />
+    </div>
 
     <h3>La séance de massage</h3>
 
