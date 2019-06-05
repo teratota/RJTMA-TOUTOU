@@ -57,6 +57,13 @@ html {
     margin-right: 10%;
 }
 
+.equipe {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
 /* JUSTINE : page conseils veto */
 
 #content{
