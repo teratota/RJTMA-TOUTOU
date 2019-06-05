@@ -1,16 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: ruich
- * Date: 05/06/2019
- * Time: 12:21
- */
-
-include 'header.php';
-include 'navbar.php';
-include 'footer.php';
-
-?>
 
 <div class='corps shadow p-3 mb-5 bg-white rounded'><br><br>
     <div>
