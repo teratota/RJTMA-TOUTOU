@@ -22,7 +22,6 @@
                 Merci.
             </div>
         </div>
-
     </div>
     
     <div class='corps shadow p-3 mb-5 bg-white rounded'>
