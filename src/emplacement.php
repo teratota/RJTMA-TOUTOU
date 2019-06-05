@@ -1,15 +1,15 @@
 <?php include('header.php')?>
-<h2>Nous retrouver</h2>
+<h1>Nous retrouver</h1>
 <p>Notre chenil est situé dans le 18ème arrondissement de Paris.</p>
 
 <p>Les différents moyens d'y acceder :</p>  
 
-<h3>Par transport en commun</h3>
+<h2>Par transport en commun</h2>
 <p class="metro"><span style="background-color: #BE418D">Metro 4</span> Simplon</p>
 <p class="metro"><span style="background-color: #007E49">Metro 12</span> Jules Joffrin</p>
 <p class="metro"><span style="background-color: #8E6633">Bus 85</span> Mairie du 18ème - Jules Joffrin</p>
 
-<h3>Par transport personnel</h3>
+<h2>Par transport personnel</h2>
 <p>Rue du Mont-Cenis par le Boulevard Ney</p>
 
 

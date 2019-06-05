@@ -2,6 +2,7 @@ html {
     margin: 0;
     padding: 0;
     background-image: url('../img/bg.jpg');
+    font-family: Arial;
 }
 
 .carousel {
@@ -49,4 +50,66 @@ html {
     display: inline-block;
     width: 100px;
     text-align: center;
+}
+
+.equipe {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+/* JUSTINE : page conseils veto */
+
+#content{
+    background-image:url("../img/image1ConseilVeto.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-position: top;
+    top:0
+}
+
+#contentConseils{background: none!important;position: relative; }
+#contentPage .jumbotron{background: rgba(4,144,126,0.2)}
+.propConseilsVeto h2{text-align: center;font-size:20px}
+
+.titlePage{
+    text-align: center;padding-top:5%
+}
+
+.lead{
+    padding:3%;text-align: center;font-weight:400!important;
+}
+
+.imgPropConseilsVeto{text-align: center;margin-bottom:5%}
+.imgPropConseilsVeto img{width:20%}
+.txtPropConseilsVeto{padding:3%}
+
+
+
+/**
+Coaching bien etre
+ */
+.coaching {
+    margin-left: 10%;
+
+}
+
+.coach_img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+
+}
+#backRemiseEnForme {
+    background-image: url('../img/remise_en_forme.jpg')!important;
+    background-repeat: no-repeat;
+}
+#dogsitting {
+    background-image: url('../img/docsitter.png')!important;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bg-white#remiseenforme{
+    background-color: rgba(255,255,255,0.5)!important;
 }
