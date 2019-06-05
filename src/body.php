@@ -277,41 +277,9 @@
         </div>
     </div>
 
-            <!-- 8 -->
-    <div class="card" style="width: 18rem;">
-        <img src="./img/dog5.png" class="card-img-top" alt="...">
-        <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-            En savoir plus
-            </button>
+    
 
-                <!-- Modal -->
-            <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget sapien sagittis nunc molestie condimentum. Quisque cursus turpis sit amet dui consectetur sagittis. Pellentesque scelerisque purus vel porta luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a elit felis. Sed nulla sapien, accumsan at neque non, sollicitudin commodo tortor. Ut sit amet feugiat erat. Nunc rutrum a magna non sodales. Etiam aliquam orci in nulla volutpat, at elementum lacus commodo. Vestibulum ipsum elit, imperdiet eu dolor mattis, ullamcorper tristique enim. Nullam elementum pretium dapibus.
-                        </div>
-                        <div class="modal-footer">
-                            <a type="button" class="btn btn-primary" href="./coaching.php">Découvrir</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-    </div>
+</div>
 
 
 
