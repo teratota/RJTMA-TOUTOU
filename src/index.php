@@ -1,4 +1,6 @@
 <?php
 
     include 'header.php';
-    include 'navbar.php';
+    include 'body.php'; 
+    include 'form.php';
+    include 'footer.php';

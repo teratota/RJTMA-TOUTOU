@@ -9,16 +9,22 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link" href="#">Nos Offres</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link" href="#">Notre Equipe</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link" href="#">Nos activitées</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link" href="#">Commantaires</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Gallerie</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Contact</a>
       </li>
     </ul>
   </div>
