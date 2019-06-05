@@ -5,7 +5,14 @@
             <input type='texte' class="form-control" name='commentaire' placeholder='veuiller entrer votre commentaire'>
         </div>
         <div class="col-md-12 mb-3">
-            <input type='texte' class="form-control" name='note' placeholder='noter'>
+        <select class="form-control form-control-lg" name="note">
+            <option>0</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+        </select>
         </div>
         <button class="btn btn-primary" type="submit">Envoi</button>
     </div>
