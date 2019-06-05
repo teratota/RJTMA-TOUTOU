@@ -14,8 +14,9 @@
     <div class='corps shadow p-3 mb-5 bg-white rounded'>
 
         <div class="row">
-            <div class="col-xl-12 col-lg-12">
+            <div class="col-xl-12 col-lg-12 centreTxt">
                 <h1>Bienvenue sur l'espace information tarifaire concernant le dog sitting </h1>
+                </br>
                 Un dog sitter s’occupe des chiens en l’absence de leurs maîtres les tarifs sont à titre idicatif et peuvent variés en fonction de l'animal.</br>
                 Pour les extentions nous vous conseillons de nous prévenir à l'avance.</br>
                 Merci.

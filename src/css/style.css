@@ -8,7 +8,6 @@ body {
     padding: 0;
     background-image: url('../img/bg.jpg');
 }
-
 .corps {
     margin-left: 10%;
     margin-right: 10%;
@@ -47,4 +46,15 @@ body {
 .contact {
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.centreTxt {
+    text-align: center!important;
+}
+
+#backRemiseEnForme {
+    background-image: url('../img/remise_en_forme.jpg')!important;
+}
+.bg-white#remiseenforme{
+    background-color: rgba(255,255,255,0.5)!important;
 }
