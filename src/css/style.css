@@ -1,28 +1,19 @@
 html {
     margin: 0;
     padding: 0;
-}
-
-body {
-    margin: 0;
-    padding: 0;
     background-image: url('../img/bg.jpg');
-}
-
-.corps {
-    margin-left: 10%;
-    margin-right: 10%;
-    background-color: white;
+    font-family: Arial;
 }
 
 .carousel {
-    position: absolute;
-    width: 30%;
-    padding-top: 10%;
-    padding-bottom: 10%;
+    margin-top: 10%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.container{
+    margin-top: 76px;
 }
 
 .activiti {
@@ -30,21 +21,95 @@ body {
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
-    margin-bottom: 10%;
+    margin: 10%;
 }
 
 .card {
-    margin-bottom: 10px;
-    margin-top: 10px;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin: 20px;
 }
 
 .foot {
-    margin-top: -5%;
+    position: absolute;
+    bottom: 0;
+    margin-top: -50px;
 }
 
 .contact {
+    margin: 30px;
+}
+
+
+/* Page Emplacement */
+.metro {
+	font-weight: bold;
+}
+
+.metro span{
+	padding: 10px;
+    color: white;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+
+.equipe {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+/* JUSTINE : page conseils veto */
+
+#content{
+    background-image:url("../img/image1ConseilVeto.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-position: top;
+    top:0
+}
+
+#contentConseils{background: none!important;position: relative; }
+#contentPage .jumbotron{background: rgba(4,144,126,0.2)}
+.propConseilsVeto h2{text-align: center;font-size:20px}
+
+.titlePage{
+    text-align: center;padding-top:5%
+}
+
+.lead{
+    padding:3%;text-align: center;font-weight:400!important;
+}
+
+.imgPropConseilsVeto{text-align: center;margin-bottom:5%}
+.imgPropConseilsVeto img{width:20%}
+.txtPropConseilsVeto{padding:3%}
+
+
+
+/**
+Coaching bien etre
+ */
+.coaching {
     margin-left: 10%;
-    margin-right: 10%;
+
+}
+
+.coach_img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+
+}
+#backRemiseEnForme {
+    background-image: url('../img/remise_en_forme.jpg')!important;
+    background-repeat: no-repeat;
+}
+#dogsitting {
+    background-image: url('../img/docsitter.png')!important;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bg-white#remiseenforme{
+    background-color: rgba(255,255,255,0.5)!important;
 }
