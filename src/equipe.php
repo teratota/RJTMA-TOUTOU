@@ -5,7 +5,7 @@
 <h1>L'équipe</h1>
 
 <div class='text-center'>
-  <img src="./img/equipe.jpg" />
+  <img src="./img/equipe.jpg" width="100%" />
 </div>
 
 <div class="equipe">

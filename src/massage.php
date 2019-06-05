@@ -10,7 +10,7 @@
     <p>Notre service de massage est approprié aux chiens qui travaillent ansi qu'aux chiens de compagnie.</p>
 
     <div class="text-center">
-        <img src="./img/dog_massage1.jpg" />
+        <img src="./img/dog_massage1.jpg" width="100%" />
     </div>
 
     <h2>A quoi sert de masser son chien ?</h2>
@@ -25,7 +25,7 @@
         de confiance qui permet au chien d'avoir un massage avec aucune contrainte</p>
 
     <div class="text-center">
-        <img src="./img/dog_massage2.jpg" />
+        <img src="./img/dog_massage2.jpg"  width="100%" />
     </div>
 
     <h3>La séance de massage</h3>
