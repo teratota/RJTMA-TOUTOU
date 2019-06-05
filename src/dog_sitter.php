@@ -1,33 +1,39 @@
-<?php
+    <?php
     include 'navbar.php';
-//    include 'body.php';
-//    include 'form.php';
-//    include 'foot.php';
+    //    include 'body.php';
+    //    include 'form.php';
+    //    include 'foot.php';
     include 'footer.php';
     ?>
-</br>
-</br>
-</br>
-</br>
-</br>
-<div class='corps shadow p-3 mb-5 bg-white rounded'>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
 
-        <!-- Carousel -->
+    <div class='corps shadow p-3 mb-5 bg-white rounded'>
 
-        <!-- Card -->
-        
         <div class="row">
+            <div class="col-xl-12 col-lg-12">
+                <h1>Bienvenue sur l'espace information tarifaire concernant le dog sitting </h1>
+                Un dog sitter s’occupe des chiens en l’absence de leurs maîtres les tarifs sont à titre idicatif et peuvent variés en fonction de l'animal.</br>
+                Pour les extentions nous vous conseillons de nous prévenir à l'avance.</br>
+                Merci.
+            </div>
+        </div>
 
-            <!-- Area Chart -->
+    </div>
+    
+    <div class='corps shadow p-3 mb-5 bg-white rounded'>
+
+        <div class="row">
             <div class="col-xl-12 col-lg-12">
                 <div class="card shadow mb-4">
-                    <!-- Card Header - Dropdown -->
                     <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                         <h6 class="m-0 font-weight-bold text-primary">Grille de prix indicatifs</h6>
                         <div class="dropdown no-arrow">
                         </div>
                     </div>
-                    <!-- Card Body -->
                     <table class="table table-bordered" id="table_id" width="100%" cellspacing="0">
                         <thead>
                             <tr>
@@ -36,9 +42,6 @@
                                 <th>Extention</th>
                             </tr>
                         </thead>
-                        <tfoot>
-                        </tfoot>
-                        <tbody>
 
                             <tr>
                                 <td>1 Heure</td>
@@ -80,13 +83,12 @@
                 </div>
             </div>
         </div>
-
-    </div>sss
-
+    </div>
+    
     <script>
-            $(document).ready(function () {
-                $('#table_id').DataTable();
-            });
-        </script>
+        $(document).ready(function () {
+            $('#table_id').DataTable();
+        });
+    </script>
 
 
