@@ -48,3 +48,19 @@ body {
     margin-left: 10%;
     margin-right: 10%;
 }
+
+
+/**
+Coaching bien etre
+ */
+.coaching {
+    margin-left: 10%;
+
+}
+
+.coach_img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+
+}
