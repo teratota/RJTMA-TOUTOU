@@ -33,12 +33,12 @@ html {
     bottom: 0;
     margin-top: -50px;
 }
-
+/*
 .contact {
 <<<<<<< HEAD
     margin: 30px;
 }
-
+*/
 
 /* Page Emplacement */
 .metro {
@@ -51,12 +51,12 @@ html {
     display: inline-block;
     width: 100px;
     text-align: center;
-}
-=======
+}/**
+======={
     margin-left: 10%;
     margin-right: 10%;
 }
-
+*/
 .equipe {
     display: flex;
     flex-direction: row;
@@ -90,7 +90,7 @@ html {
 .imgPropConseilsVeto{text-align: center;margin-bottom:5%}
 .imgPropConseilsVeto img{width:20%}
 .txtPropConseilsVeto{padding:3%}
->>>>>>> justine
+/** justine*/
 
 
 
@@ -107,4 +107,23 @@ Coaching bien etre
     max-width: 100%;
     height: auto;
 
+}
+
+
+/**
+Partenaire
+ */
+.royalcanin {
+    width: 250px;
+}
+
+/**
+Page chiffres
+ */
+
+#chiffres > div {
+    display: inline-block;
+    padding: 0.5rem;
+    border: 5px solid green;
+    border-radius: 50%;
 }
