@@ -91,3 +91,20 @@ html {
 .imgPropConseilsVeto img{width:20%}
 .txtPropConseilsVeto{padding:3%}
 >>>>>>> justine
+
+
+
+/**
+Coaching bien etre
+ */
+.coaching {
+    margin-left: 10%;
+
+}
+
+.coach_img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+
+}
