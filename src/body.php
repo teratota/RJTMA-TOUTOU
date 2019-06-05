@@ -4,13 +4,13 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="../img/dog1.jpg" class="d-block w-100" alt="...">
+                <img src="./img/dog1.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="../img/dog2.jpg" class="d-block w-100" alt="...">
+                <img src="./img/dog2.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="../img/dog3.jpg" class="d-block w-100" alt="...">
+                <img src="./img/dog3.jpg" class="d-block w-100" alt="...">
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
@@ -28,7 +28,7 @@
 
             <!-- 1 -->
     <div class="card" style="width: 18rem;">
-        <img src="../img/dog5.png" class="card-img-top" alt="...">
+        <img src="./img/dog5.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -59,7 +59,7 @@
 
             <!-- 2 -->
     <div class="card" style="width: 18rem;">
-        <img src="../img/dog5.png" class="card-img-top" alt="...">
+        <img src="./img/dog5.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -90,7 +90,7 @@
 
             <!-- 3 -->
     <div class="card" style="width: 18rem;">
-        <img src="../img/dog5.png" class="card-img-top" alt="...">
+        <img src="./img/dog5.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -121,7 +121,7 @@
 
             <!-- 4 -->
     <div class="card" style="width: 18rem;">
-        <img src="../img/dog5.png" class="card-img-top" alt="...">
+        <img src="./img/dog5.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -152,7 +152,7 @@
 
             <!-- 5 -->
     <div class="card" style="width: 18rem;">
-        <img src="../img/dog5.png" class="card-img-top" alt="...">
+        <img src="./img/dog5.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -183,7 +183,7 @@
 
             <!-- 6 -->
     <div class="card" style="width: 18rem;">
-        <img src="../img/dog5.png" class="card-img-top" alt="...">
+        <img src="./img/dog5.png" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
