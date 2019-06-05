@@ -48,27 +48,24 @@
     </div>
   </div>
 
-  <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="./img/equipe2.jpg" alt="pdg">
-    <div class="card-body">
-      <h5 class="card-title">Ross Geller</h5>
-      <p class="card-text">Responsable communication</p>
-      <p class="card-text">Il s'occupe de répondre à toute vos questions que vous posez</p>
-    </div>
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="./img/equipe3.jpg" alt="pdg">
+        <div class="card-body">
+          <h5 class="card-title">Monica Geller</h5>
+          <p class="card-text">Coach</p>
+          <p class="card-text">Elle s'occupe du service de coaching, elle renouera votre lien avec votre chien</p>
+        </div>
+      </div>
+      
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="./img/equipe2.jpg" alt="pdg">
+        <div class="card-body">
+          <h5 class="card-title">Ross Geller</h5>
+          <p class="card-text">Responsable communication</p>
+          <p class="card-text">Il s'occupe de répondre à toute vos questions que vous posez</p>
+        </div>
+      </div>
   </div>
-
-  <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="./img/equipe3.jpg" alt="pdg">
-    <div class="card-body">
-      <h5 class="card-title">Monica Geller</h5>
-      <p class="card-text">Coach</p>
-      <p class="card-text">Elle s'occupe du service de coaching, elle renouera votre lien avec votre chien</p>
-    </div>
-  </div>
-
-
-</div>
-
 
 <?php
     include 'footer.php';
