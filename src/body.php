@@ -37,7 +37,7 @@
     </p>
 
         <!-- Card -->
-    <div class="activiti">
+    <div class="activiti" id="activitees">
 
             <!-- 1 -->
     <div class="card" style="width: 18rem;">
