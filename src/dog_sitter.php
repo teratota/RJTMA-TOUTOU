@@ -51,7 +51,7 @@ include 'header.php';
                 </br></br>
                 La garde de chien à domicile est idéale pour les chiens qui n’aiment pas le changement d’environnement et qui sont habitués à leur confort. En effet, bien que domestique, votre toutou a des habitudes et vous voir partir en vacances peut être traumatisant pour lui. C’est pourquoi il est indispensable de faire appel à une personne de confiance, sérieuse et que vous avez rencontré en amont.</p>
             </br></br>
-            <img src="./img/dog5.png" class="card-img-top" alt="...">
+             <p><img src="img/docsitter3.jpg" alt=""></p>
             <h2>Promenades de chien</h2>
             <p>Le principe des promenades de chien est simple. Contrairement à une garde de chien à domicile, le dogsitter ne va pas dormir à votre domicile. Il ira chez vous durant vos vacances, un nombre de fois défini au préalable, pour nourrir votre compagnon, lui faire faire une promenade et lui apporter tout l’amour et le soutient qu’il est possible d’apporter.
                 </br></br>

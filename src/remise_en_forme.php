@@ -22,12 +22,6 @@ C’est pour répondre à cette demande que le centre Alforme a été créé.
             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./img/firstremiseenforme.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="./img/remiseenforme.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
                         <img src="./img/remiseenforme2.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
