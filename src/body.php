@@ -1,4 +1,4 @@
-<div class='corps shadow p-3 mb-5 bg-white rounded'>
+<div>
 
         <!-- Carousel -->
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">

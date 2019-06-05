@@ -1,11 +1,7 @@
-<?php 
-    include 'header.php';
-?>
-
 <!-- NavBar -->
 
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
-  <img src="./img/dog.png" width="40" height="40" alt="">
+  <img src="./img/logo.svg" width="60" height="60" alt="">
   <a class="navbar-brand" href="#">TouTou Garderie</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>

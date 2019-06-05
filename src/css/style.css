@@ -1,21 +1,10 @@
 html {
     margin: 0;
     padding: 0;
-}
-
-body {
-    margin: 0;
-    padding: 0;
     background-image: url('../img/bg.jpg');
 }
 
-.corps {
-    margin-left: 10%;
-    margin-right: 10%;
-    background-color: white;
-}
-
-.carousel {
+/* .carousel {
     position: absolute;
     width: 30%;
     padding-top: 10%;
@@ -47,4 +36,4 @@ body {
 .contact {
     margin-left: 10%;
     margin-right: 10%;
-}
+} */
