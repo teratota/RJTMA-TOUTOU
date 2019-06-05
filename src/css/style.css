@@ -34,10 +34,7 @@ body {
 }
 
 .card {
-    margin-bottom: 10px;
-    margin-top: 10px;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin: 20px;
 }
 
 .foot {
@@ -47,4 +44,11 @@ body {
 .contact {
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.equipe {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
