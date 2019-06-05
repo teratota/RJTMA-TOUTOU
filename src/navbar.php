@@ -18,7 +18,7 @@
         <a class="nav-link" href="#">Nos activitées</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Commantaires</a>
+        <a class="nav-link" href="commentaire.php">Commentaires</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Gallerie</a>
