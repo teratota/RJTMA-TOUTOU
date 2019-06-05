@@ -11,6 +11,10 @@ html {
     margin-right: auto;
 }
 
+.container{
+    margin-top: 76px;
+}
+
 .activiti {
     display: flex;
     flex-direction: row;
@@ -25,9 +29,24 @@ html {
 
 .foot {
     position: absolute;
-    margin-top: -5%;
+    bottom: 0;
+    margin-top: -50px;
 }
 
 .contact {
     margin: 30px;
+}
+
+
+/* Page Emplacement */
+.metro {
+	font-weight: bold;
+}
+
+.metro span{
+	padding: 10px;
+    color: white;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
 }
