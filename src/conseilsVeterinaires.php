@@ -2,6 +2,7 @@
 include 'header.php';
 include 'navbar.php';
 ?>
+
 <div id="content">
 <div class="jumbotron" id="contentConseils">
 	<div>
@@ -9,8 +10,8 @@ include 'navbar.php';
 		<p class="lead">Dans une démarche d'accueil de qualité, nous proposons des rencontres avec des professionnels de la santé animale ainsi qu'un espace d'échanges.</p>
 	</div>
 	<hr class="my-4">
-	<div class="row">
-		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 jumbotron propConseilsVeto">
+	<div class="row" id="contentPage">
+		<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 jumbotron propConseilsVeto">
 			<div class="imgPropConseilsVeto">
 				<img src="img/logo_conseilsVeterinaires.png">
 			</div>
@@ -29,7 +30,7 @@ include 'navbar.php';
 			</ul>
 			</div>
 		</div>
-		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 jumbotron propConseilsVeto">
+		<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 jumbotron propConseilsVeto">
 			<div class="imgPropConseilsVeto">
 				<img src="img/iconeRencontres.png">
 			</div>
@@ -39,7 +40,7 @@ include 'navbar.php';
 			Cet espace est libre d'accès. Nous mettons un point d'honneur à donner à ce lieu une ambiance sereine, chaleureuse avec des boissons à disposition ainsi que des jeux pour que vos chiens fassent plus ample connaissance.
 			</p>
 		</div>
-		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 jumbotron propConseilsVeto">
+		<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 jumbotron propConseilsVeto">
 			<div class="imgPropConseilsVeto">
 				<img src="img/documentation.png">
 			</div>
@@ -57,3 +58,7 @@ include 'navbar.php';
 	</div>
 </div>
 </div>
+
+<?php
+include 'footer.php';
+?>
