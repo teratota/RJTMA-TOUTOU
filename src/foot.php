@@ -1,3 +1,3 @@
-<nav class="foot navbar navbar-dark bg-primary">
+<nav class="foot navbar navbar-expand-lg navbar-dark bg-primary">
   <a class="navbar-brand" href="#">copyright</a>
 </nav>

@@ -1,25 +1,11 @@
 html {
     margin: 0;
     padding: 0;
-}
-
-body {
-    margin: 0;
-    padding: 0;
     background-image: url('../img/bg.jpg');
 }
 
-.corps {
-    margin-left: 10%;
-    margin-right: 10%;
-    background-color: white;
-}
-
 .carousel {
-    position: absolute;
-    width: 30%;
-    padding-top: 10%;
-    padding-bottom: 10%;
+    margin-top: 10%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -30,21 +16,18 @@ body {
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
-    margin-bottom: 10%;
+    margin: 10%;
 }
 
 .card {
-    margin-bottom: 10px;
-    margin-top: 10px;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin: 20px;
 }
 
 .foot {
+    position: absolute;
     margin-top: -5%;
 }
 
 .contact {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin: 30px;
 }
