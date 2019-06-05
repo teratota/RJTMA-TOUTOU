@@ -13,9 +13,6 @@ include 'footer.php';
 
 <div id ="backRemiseEnForme">
 
-    <div class="col-xl-12 col-lg-12 centreTxt">
-        <h1>Bienvenue sur l'espace concernant la remise en forme</h1>
-    </div>
     <div id="remiseenforme" class='corps shadow p-3 mb-5 bg-white rounded'>
         <div class="col-xl-12 col-lg-12">
             <h1>Bienvenue sur l'espace concernant la remise en forme</h1>
@@ -28,6 +25,7 @@ include 'footer.php';
             C’est pour répondre à cette demande que le centre Alforme a été créé.
             </br>
             Il s’agit du premier centre complet en France qui allie rééducation, cures, préparation sportive, soins de thalassothérapie et remise en forme, alimentation et vente de produits sous le contrôle d’un vétérinaire. 
+           … et une unité de formation pour les vétérinaires et les étudiants
 
             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
                 <div class="carousel-inner">
@@ -66,7 +64,6 @@ include 'footer.php';
                 </a>
             </div>
 
-            … et une unité de formation pour les vétérinaires et les étudiants
             </br></br>
 
             Situé au sein de l’École Nationale Vétérinaire d’Alfort (ENVA), il est également un centre de recherche et de formation à destination des étudiants et vétérinaires.

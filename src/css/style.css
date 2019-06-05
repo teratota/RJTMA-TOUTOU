@@ -54,6 +54,12 @@ body {
 
 #backRemiseEnForme {
     background-image: url('../img/remise_en_forme.jpg')!important;
+    background-repeat: no-repeat;
+}
+#dogsitting {
+    background-image: url('../img/docsitter.png')!important;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 .bg-white#remiseenforme{
     background-color: rgba(255,255,255,0.5)!important;
