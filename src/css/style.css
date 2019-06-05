@@ -66,7 +66,6 @@ html {
     background-repeat:no-repeat;
     background-size:100%;
     background-position: top;
-    position: absolute;
     top:0
 }
 
@@ -85,3 +84,32 @@ html {
 .imgPropConseilsVeto{text-align: center;margin-bottom:5%}
 .imgPropConseilsVeto img{width:20%}
 .txtPropConseilsVeto{padding:3%}
+
+
+
+/**
+Coaching bien etre
+ */
+.coaching {
+    margin-left: 10%;
+
+}
+
+.coach_img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+
+}
+#backRemiseEnForme {
+    background-image: url('../img/remise_en_forme.jpg')!important;
+    background-repeat: no-repeat;
+}
+#dogsitting {
+    background-image: url('../img/docsitter.png')!important;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bg-white#remiseenforme{
+    background-color: rgba(255,255,255,0.5)!important;
+}
