@@ -13,7 +13,7 @@ include 'navbar.php';
 	<div class="row" id="contentPage">
 		<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 jumbotron propConseilsVeto">
 			<div class="imgPropConseilsVeto">
-				<img src="img/logo_conseilsVeterinaires.png">
+				<img src="img/logo_conseilsVeterinaires.png" alt="icone de conseils vétérinaires a destination des propriétaires de chiens">
 			</div>
 			<h2>Rendez-vous avec un vétérinaire</h2>
 			<div class="txtPropConseilsVeto">
@@ -32,7 +32,7 @@ include 'navbar.php';
 		</div>
 		<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 jumbotron propConseilsVeto">
 			<div class="imgPropConseilsVeto">
-				<img src="img/iconeRencontres.png">
+				<img src="img/iconeRencontres.png" alt="icone des espaces de rencontres entre particuliers et amoureux du monde canin">
 			</div>
 			<h2>Espace de rencontres et d'échanges</h2>
 			<p class="txtPropConseilsVeto">
@@ -42,7 +42,7 @@ include 'navbar.php';
 		</div>
 		<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 jumbotron propConseilsVeto">
 			<div class="imgPropConseilsVeto">
-				<img src="img/documentation.png">
+				<img src="img/documentation.png" alt="icone de l'espace de documentation : soins, conseils, vidéos, livres sur les chiens">
 			</div>
 			<h2>Documentation</h2>
 			<div class="txtPropConseilsVeto">
