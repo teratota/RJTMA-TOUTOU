@@ -113,3 +113,6 @@ Coaching bien etre
 .bg-white#remiseenforme{
     background-color: rgba(255,255,255,0.5)!important;
 }
+
+#carous{width:50%;margin: auto;float:none;claer:left}
+#grosCarous{text-align: center}

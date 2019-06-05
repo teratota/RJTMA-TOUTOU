@@ -20,29 +20,20 @@ C’est pour répondre à cette demande que le centre Alforme a été créé.
             … et une unité de formation pour les vétérinaires et les étudiants
             
             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src="./img/firstremiseenforme.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="./img/remiseenforme.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
+                <div class="carousel-inner" id="grosCarous">
+                    <div class="carousel-item active" id="carous">
                         <img src="./img/remiseenforme2.jpg" class="d-block w-100" alt="...">
                     </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item" id="carous">
                         <img src="./img/remiseenforme3.jpg" class="d-block w-100" alt="...">
                     </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item" id="carous">
                         <img src="./img/remiseenforme4.jpg" class="d-block w-100" alt="...">
                     </div>
-                    <div class="carousel-item">
-                        <img src="./img/remiseenforme5.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item" id="carous">
                         <img src="./img/remiseenforme6.jpg" class="d-block w-100" alt="...">
                     </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item" id="carous">
                         <img src="./img/remiseenforme7.jpg" class="d-block w-100" alt="...">
                     </div>
                 </div>
